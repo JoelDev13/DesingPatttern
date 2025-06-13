@@ -1,0 +1,14 @@
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\obj\Debug\net8.0\RegistroDiarioTemperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\obj\Debug\net8.0\RegistroDiarioTemperaturas.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\obj\Debug\net8.0\RegistroDiarioTemperaturas.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\obj\Debug\net8.0\RegistroDiarioTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\bin\Debug\net8.0\RegistroDiarioTemperaturas.exe
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\bin\Debug\net8.0\RegistroDiarioTemperaturas.deps.json
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\bin\Debug\net8.0\RegistroDiarioTemperaturas.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\bin\Debug\net8.0\RegistroDiarioTemperaturas.dll
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\bin\Debug\net8.0\RegistroDiarioTemperaturas.pdb
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\obj\Debug\net8.0\RegistroDiarioTemperaturas.dll
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\obj\Debug\net8.0\refint\RegistroDiarioTemperaturas.dll
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\obj\Debug\net8.0\RegistroDiarioTemperaturas.pdb
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\obj\Debug\net8.0\RegistroDiarioTemperaturas.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\RegistroDiarioTemperaturas\RegistroDiarioTemperaturas\obj\Debug\net8.0\ref\RegistroDiarioTemperaturas.dll

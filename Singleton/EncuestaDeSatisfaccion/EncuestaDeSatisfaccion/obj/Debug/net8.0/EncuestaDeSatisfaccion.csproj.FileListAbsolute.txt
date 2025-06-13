@@ -1,0 +1,14 @@
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\bin\Debug\net8.0\EncuestaDeSatisfaccion.exe
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\bin\Debug\net8.0\EncuestaDeSatisfaccion.deps.json
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\bin\Debug\net8.0\EncuestaDeSatisfaccion.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\bin\Debug\net8.0\EncuestaDeSatisfaccion.dll
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\bin\Debug\net8.0\EncuestaDeSatisfaccion.pdb
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\obj\Debug\net8.0\EncuestaDeSatisfaccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\obj\Debug\net8.0\EncuestaDeSatisfaccion.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\obj\Debug\net8.0\EncuestaDeSatisfaccion.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\obj\Debug\net8.0\EncuestaDeSatisfaccion.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\obj\Debug\net8.0\EncuestaDeSatisfaccion.dll
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\obj\Debug\net8.0\refint\EncuestaDeSatisfaccion.dll
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\obj\Debug\net8.0\EncuestaDeSatisfaccion.pdb
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\obj\Debug\net8.0\EncuestaDeSatisfaccion.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Itla\Programacion 2\SINGLETON\EncuestaDeSatisfaccion\EncuestaDeSatisfaccion\obj\Debug\net8.0\ref\EncuestaDeSatisfaccion.dll

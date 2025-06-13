@@ -1,0 +1,14 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\bin\Debug\net8.0\ActivityLoggerApp.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\bin\Debug\net8.0\ActivityLoggerApp.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\bin\Debug\net8.0\ActivityLoggerApp.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\bin\Debug\net8.0\ActivityLoggerApp.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\bin\Debug\net8.0\ActivityLoggerApp.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\obj\Debug\net8.0\ActivityLoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\obj\Debug\net8.0\ActivityLoggerApp.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\obj\Debug\net8.0\ActivityLoggerApp.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\obj\Debug\net8.0\ActivityLoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\obj\Debug\net8.0\ActivityLoggerApp.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\obj\Debug\net8.0\refint\ActivityLoggerApp.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\obj\Debug\net8.0\ActivityLoggerApp.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\obj\Debug\net8.0\ActivityLoggerApp.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Singleton\AppConfiguracionUnica\AppConfiguracionUnica\obj\Debug\net8.0\ref\ActivityLoggerApp.dll

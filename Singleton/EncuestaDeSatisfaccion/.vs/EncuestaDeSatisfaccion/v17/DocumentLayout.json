@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Programacion 2\\SINGLETON\\EncuestaDeSatisfaccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42A59-30EF-470E-B6FD-63E7143EAD27}|EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion.csproj|c:\\users\\la\\desktop\\programacion\\itla\\programacion 2\\singleton\\encuestadesatisfaccion\\encuestadesatisfaccion\\gestorencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42A59-30EF-470E-B6FD-63E7143EAD27}|EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion.csproj|solutionrelative:encuestadesatisfaccion\\gestorencuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42A59-30EF-470E-B6FD-63E7143EAD27}|EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion.csproj|c:\\users\\la\\desktop\\programacion\\itla\\programacion 2\\singleton\\encuestadesatisfaccion\\encuestadesatisfaccion\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42A59-30EF-470E-B6FD-63E7143EAD27}|EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion.csproj|solutionrelative:encuestadesatisfaccion\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E42A59-30EF-470E-B6FD-63E7143EAD27}|EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion.csproj|c:\\users\\la\\desktop\\programacion\\itla\\programacion 2\\singleton\\encuestadesatisfaccion\\encuestadesatisfaccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E42A59-30EF-470E-B6FD-63E7143EAD27}|EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion.csproj|solutionrelative:encuestadesatisfaccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestorEncuesta.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Programacion 2\\SINGLETON\\EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion\\GestorEncuesta.cs",
+              "RelativeDocumentMoniker": "EncuestaDeSatisfaccion\\GestorEncuesta.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Programacion 2\\SINGLETON\\EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion\\GestorEncuesta.cs",
+              "RelativeToolTip": "EncuestaDeSatisfaccion\\GestorEncuesta.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:43:45.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Programacion 2\\SINGLETON\\EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion\\Cliente.cs",
+              "RelativeDocumentMoniker": "EncuestaDeSatisfaccion\\Cliente.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Programacion 2\\SINGLETON\\EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion\\Cliente.cs",
+              "RelativeToolTip": "EncuestaDeSatisfaccion\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:43:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Programacion 2\\SINGLETON\\EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion\\Program.cs",
+              "RelativeDocumentMoniker": "EncuestaDeSatisfaccion\\Program.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Programacion 2\\SINGLETON\\EncuestaDeSatisfaccion\\EncuestaDeSatisfaccion\\Program.cs",
+              "RelativeToolTip": "EncuestaDeSatisfaccion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:43:06.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
