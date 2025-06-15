@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\bin\Debug\net8.0\GestorPagosFactory.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\bin\Debug\net8.0\GestorPagosFactory.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\bin\Debug\net8.0\GestorPagosFactory.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\bin\Debug\net8.0\GestorPagosFactory.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\bin\Debug\net8.0\GestorPagosFactory.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\GestorPagosFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\GestorPagosFactory.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\GestorPagosFactory.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\GestorPagosFactory.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\GestorPagosFactory.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\GestorPagosFactory.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\refint\GestorPagosFactory.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\GestorPagosFactory.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\GestorPagosFactory.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\GestorPagosFactory\GestorPagosFactory\obj\Debug\net8.0\ref\GestorPagosFactory.dll
