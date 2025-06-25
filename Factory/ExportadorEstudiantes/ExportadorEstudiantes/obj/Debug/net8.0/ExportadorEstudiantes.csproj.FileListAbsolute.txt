@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\bin\Debug\net8.0\ExportadorEstudiantes.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\bin\Debug\net8.0\ExportadorEstudiantes.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\bin\Debug\net8.0\ExportadorEstudiantes.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\bin\Debug\net8.0\ExportadorEstudiantes.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\bin\Debug\net8.0\ExportadorEstudiantes.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\ExportadorEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\ExportadorEstudiantes.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\ExportadorEstudiantes.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\ExportadorEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\ExportadorEstudiantes.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\ExportadorEstudiantes.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\refint\ExportadorEstudiantes.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\ExportadorEstudiantes.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\ExportadorEstudiantes.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\ExportadorEstudiantes\ExportadorEstudiantes\obj\Debug\net8.0\ref\ExportadorEstudiantes.dll

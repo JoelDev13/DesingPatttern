@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorPagosFactory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9be7f6d68dfad4d42f4e85dceefa3097570ade7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9840f63e44da489723fe291ee2e402f8a92c4ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorPagosFactory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorPagosFactory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

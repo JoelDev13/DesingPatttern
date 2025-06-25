@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|solutionrelative:gestorpagosfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\gestorpagosfactory\\gestorpagosfactory\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|solutionrelative:gestorpagosfactory\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\gestorpagosfactory\\gestorpagosfactory\\imetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|solutionrelative:gestorpagosfactory\\imetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\gestorpagosfactory\\gestorpagosfactory\\metodopagofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|solutionrelative:gestorpagosfactory\\metodopagofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\gestorpagosfactory\\gestorpagosfactory\\imetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|solutionrelative:gestorpagosfactory\\imetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\gestorpagosfactory\\gestorpagosfactory\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|solutionrelative:gestorpagosfactory\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\gestorpagosfactory\\gestorpagosfactory\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|solutionrelative:gestorpagosfactory\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\gestorpagosfactory\\gestorpagosfactory\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|solutionrelative:gestorpagosfactory\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\gestorpagosfactory\\gestorpagosfactory\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{163762F2-8283-4B35-B7D8-F8CD6C00360A}|GestorPagosFactory\\GestorPagosFactory.csproj|solutionrelative:gestorpagosfactory\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,14 +72,14 @@
               "RelativeDocumentMoniker": "GestorPagosFactory\\MetodoPagoFactory.cs",
               "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\GestorPagosFactory\\GestorPagosFactory\\MetodoPagoFactory.cs",
               "RelativeToolTip": "GestorPagosFactory\\MetodoPagoFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T02:26:06.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TransferenciaBancaria.cs",
               "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\GestorPagosFactory\\GestorPagosFactory\\TransferenciaBancaria.cs",
               "RelativeDocumentMoniker": "GestorPagosFactory\\TransferenciaBancaria.cs",
@@ -92,20 +92,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PayPal.cs",
               "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\GestorPagosFactory\\GestorPagosFactory\\PayPal.cs",
               "RelativeDocumentMoniker": "GestorPagosFactory\\PayPal.cs",
               "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\GestorPagosFactory\\GestorPagosFactory\\PayPal.cs",
               "RelativeToolTip": "GestorPagosFactory\\PayPal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T02:06:24.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TarjetaCredito.cs",
               "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\GestorPagosFactory\\GestorPagosFactory\\TarjetaCredito.cs",
               "RelativeDocumentMoniker": "GestorPagosFactory\\TarjetaCredito.cs",
@@ -113,12 +113,11 @@
               "RelativeToolTip": "GestorPagosFactory\\TarjetaCredito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T02:03:56.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T02:03:56.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IMetodoPago.cs",
               "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\GestorPagosFactory\\GestorPagosFactory\\IMetodoPago.cs",
               "RelativeDocumentMoniker": "GestorPagosFactory\\IMetodoPago.cs",
@@ -137,7 +136,7 @@
               "RelativeDocumentMoniker": "GestorPagosFactory\\Program.cs",
               "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\GestorPagosFactory\\GestorPagosFactory\\Program.cs",
               "RelativeToolTip": "GestorPagosFactory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T01:37:30.565Z",
               "EditorCaption": ""

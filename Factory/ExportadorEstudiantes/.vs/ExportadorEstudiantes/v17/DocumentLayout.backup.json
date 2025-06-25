@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\estudiante.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\estudiante.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\estudiante.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\estudiante.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\estudiante.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\estudiante.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\exportadorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\exportadorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\exportadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\exportadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\exportadorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\exportadorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\exportadortxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\exportadortxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\iexportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\iexportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\exportadorestudiantes\\exportadorestudiantes\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DE4FAD-0E8A-4316-A5DF-235A8FAB1B4B}|ExportadorEstudiantes\\ExportadorEstudiantes.csproj|solutionrelative:exportadorestudiantes\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "estudiante.csv",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\estudiante.csv",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\estudiante.csv",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\estudiante.csv",
+              "RelativeToolTip": "ExportadorEstudiantes\\estudiante.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-06-24T17:10:08.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estudiante.json",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\estudiante.json",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\estudiante.json",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\estudiante.json",
+              "RelativeToolTip": "ExportadorEstudiantes\\estudiante.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T17:10:04.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "estudiante.txt",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\estudiante.txt",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\estudiante.txt",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\estudiante.txt",
+              "RelativeToolTip": "ExportadorEstudiantes\\estudiante.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-24T17:10:00.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportadorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\ExportadorFactory.cs",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\ExportadorFactory.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\ExportadorFactory.cs",
+              "RelativeToolTip": "ExportadorEstudiantes\\ExportadorFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:08:12.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportadorJSON.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\ExportadorJSON.cs",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\ExportadorJSON.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\ExportadorJSON.cs",
+              "RelativeToolTip": "ExportadorEstudiantes\\ExportadorJSON.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwBcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:07:38.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExportadorCSV.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\ExportadorCSV.cs",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\ExportadorCSV.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\ExportadorCSV.cs",
+              "RelativeToolTip": "ExportadorEstudiantes\\ExportadorCSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:05:42.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportadorTXT.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\ExportadorTXT.cs",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\ExportadorTXT.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\ExportadorTXT.cs",
+              "RelativeToolTip": "ExportadorEstudiantes\\ExportadorTXT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:05:11.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IExportador.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\IExportador.cs",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\IExportador.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\IExportador.cs",
+              "RelativeToolTip": "ExportadorEstudiantes\\IExportador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:03:20.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\Program.cs",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\Program.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\Program.cs",
+              "RelativeToolTip": "ExportadorEstudiantes\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:01:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ExportadorEstudiantes\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\ExportadorEstudiantes\\ExportadorEstudiantes\\Estudiante.cs",
+              "RelativeToolTip": "ExportadorEstudiantes\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:02:28.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

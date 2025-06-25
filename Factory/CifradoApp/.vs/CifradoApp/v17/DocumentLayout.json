@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\cifradoapp\\cifradoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|solutionrelative:cifradoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\cifradoapp\\cifradoapp\\cifradordes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|solutionrelative:cifradoapp\\cifradordes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\cifradoapp\\cifradoapp\\cifradorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|solutionrelative:cifradoapp\\cifradorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\cifradoapp\\cifradoapp\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|solutionrelative:cifradoapp\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\cifradoapp\\cifradoapp\\cifradoraes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|solutionrelative:cifradoapp\\cifradoraes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\cifradoapp\\cifradoapp\\cifradorbase64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|solutionrelative:cifradoapp\\cifradorbase64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|c:\\users\\la\\desktop\\programacion\\mi roadmap backend\\patrones de dise\u00F1os c#\\factory\\cifradoapp\\cifradoapp\\icifrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F87B7D-74FA-4921-948E-E29D6DA73D8D}|CifradoApp\\CifradoApp.csproj|solutionrelative:cifradoapp\\icifrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CifradorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\CifradorFactory.cs",
+              "RelativeDocumentMoniker": "CifradoApp\\CifradorFactory.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\CifradorFactory.cs",
+              "RelativeToolTip": "CifradoApp\\CifradorFactory.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:45:22.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CifradorDES.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\CifradorDES.cs",
+              "RelativeDocumentMoniker": "CifradoApp\\CifradorDES.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\CifradorDES.cs",
+              "RelativeToolTip": "CifradoApp\\CifradorDES.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:44:20.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CifradorBase64.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\CifradorBase64.cs",
+              "RelativeDocumentMoniker": "CifradoApp\\CifradorBase64.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\CifradorBase64.cs",
+              "RelativeToolTip": "CifradoApp\\CifradorBase64.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:42:00.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICifrador.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\ICifrador.cs",
+              "RelativeDocumentMoniker": "CifradoApp\\ICifrador.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\ICifrador.cs",
+              "RelativeToolTip": "CifradoApp\\ICifrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:41:22.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\Usuario.cs",
+              "RelativeDocumentMoniker": "CifradoApp\\Usuario.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\Usuario.cs",
+              "RelativeToolTip": "CifradoApp\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:40:48.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\Program.cs",
+              "RelativeDocumentMoniker": "CifradoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\Program.cs",
+              "RelativeToolTip": "CifradoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:36:16.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CifradorAES.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\CifradorAES.cs",
+              "RelativeDocumentMoniker": "CifradoApp\\CifradorAES.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Mi roadmap backend\\Patrones De Dise\u00F1os c#\\Factory\\CifradoApp\\CifradoApp\\CifradorAES.cs",
+              "RelativeToolTip": "CifradoApp\\CifradorAES.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:42:55.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

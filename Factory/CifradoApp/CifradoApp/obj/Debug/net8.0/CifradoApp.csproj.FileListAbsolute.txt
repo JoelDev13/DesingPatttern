@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\bin\Debug\net8.0\CifradoApp.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\bin\Debug\net8.0\CifradoApp.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\bin\Debug\net8.0\CifradoApp.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\bin\Debug\net8.0\CifradoApp.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\bin\Debug\net8.0\CifradoApp.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\CifradoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\CifradoApp.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\CifradoApp.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\CifradoApp.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\CifradoApp.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\CifradoApp.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\refint\CifradoApp.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\CifradoApp.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\CifradoApp.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Factory\CifradoApp\CifradoApp\obj\Debug\net8.0\ref\CifradoApp.dll
