@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\bin\Debug\net8.0\SensorAdapterSystem.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\bin\Debug\net8.0\SensorAdapterSystem.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\bin\Debug\net8.0\SensorAdapterSystem.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\bin\Debug\net8.0\SensorAdapterSystem.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\bin\Debug\net8.0\SensorAdapterSystem.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\SensorAdapterSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\SensorAdapterSystem.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\SensorAdapterSystem.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\SensorAdapterSystem.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\SensorAdapterSystem.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\SensorAdapterSystem.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\refint\SensorAdapterSystem.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\SensorAdapterSystem.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\SensorAdapterSystem.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SensorAdapterSystem\SensorAdapterSystem\obj\Debug\net8.0\ref\SensorAdapterSystem.dll

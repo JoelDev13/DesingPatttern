@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\bin\Debug\net8.0\SistemaDeNotificaciones.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\bin\Debug\net8.0\SistemaDeNotificaciones.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\bin\Debug\net8.0\SistemaDeNotificaciones.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\bin\Debug\net8.0\SistemaDeNotificaciones.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\bin\Debug\net8.0\SistemaDeNotificaciones.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\SistemaDeNotificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\SistemaDeNotificaciones.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\SistemaDeNotificaciones.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\SistemaDeNotificaciones.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\SistemaDeNotificaciones.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\SistemaDeNotificaciones.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\refint\SistemaDeNotificaciones.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\SistemaDeNotificaciones.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\SistemaDeNotificaciones.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeNotificaciones\SistemaDeNotificaciones\obj\Debug\net8.0\ref\SistemaDeNotificaciones.dll
