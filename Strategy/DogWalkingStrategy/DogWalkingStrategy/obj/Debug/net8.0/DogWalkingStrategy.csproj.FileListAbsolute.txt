@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\bin\Debug\net8.0\DogWalkingStrategy.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\bin\Debug\net8.0\DogWalkingStrategy.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\bin\Debug\net8.0\DogWalkingStrategy.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\bin\Debug\net8.0\DogWalkingStrategy.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\bin\Debug\net8.0\DogWalkingStrategy.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\DogWalkingStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\DogWalkingStrategy.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\DogWalkingStrategy.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\DogWalkingStrategy.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\DogWalkingStrategy.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\DogWalkingStrategy.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\refint\DogWalkingStrategy.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\DogWalkingStrategy.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\DogWalkingStrategy.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\DogWalkingStrategy\DogWalkingStrategy\obj\Debug\net8.0\ref\DogWalkingStrategy.dll
